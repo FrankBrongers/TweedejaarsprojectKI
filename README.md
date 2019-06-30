@@ -1,8 +1,8 @@
 # TweedejaarsprojectKI
 
-### Main functionality (full pipeline): Detection_Execution
-### Building CNNs and basic testing for grayscale images: CNN_on_GRAY
-### Building CNNs and basic testing for RGB images: CNN_on_RGB
+### Detection_Execution: Main functionality (full pipeline)
+### CNN_on_GRAY: Building CNNs and basic testing for grayscale images
+### CNN_on_RGB: Building CNNs and basic testing for RGB images
 
 ### for 2 classes (robotleg or not) in data/:
 	- cnn_test
