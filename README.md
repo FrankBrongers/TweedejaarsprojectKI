@@ -20,3 +20,6 @@
 	- TestBoxes_GRAY: for CNN and test images on gray scaled images
 	- TestBoxes_RGB: for CNN and test images on RGB images
 
+
+### cnn_data5 : images used for either training or testing on original image set
+
